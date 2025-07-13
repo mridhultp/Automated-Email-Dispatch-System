@@ -2,6 +2,7 @@
 
 
 Gmail Mail Merge with Python & Excel
+
 This project automates sending personalized emails (with attachments) to multiple recipients using Python, Gmail, and an Excel sheet.
 ________________________________________
 Features
@@ -75,7 +76,7 @@ Security Notes
 ________________________________________
 Future Improvements
 
-   •	HTML formatted email body
+   •	HTML formatted email body or multiple email template uses for diffrent purpose
    
    •	Resume failed email attempts
    
