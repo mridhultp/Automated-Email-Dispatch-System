@@ -1,7 +1,7 @@
 # Automated Email Dispatch System
 
 
-Gmail Mail Merge with Python & Excel
+Mail contact through Gmail with Python & Excel
 
 This project automates sending personalized emails (with attachments) to multiple recipients using Python, Gmail, and an Excel sheet.
 ________________________________________
