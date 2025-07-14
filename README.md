@@ -7,13 +7,13 @@ This project automates sending personalized emails (with attachments) to multipl
 ________________________________________
 Features
 
-•	Reads recipient data from Excel
-
 •	Sends personalized emails through Gmail SMTP
 
 •	Attaches resume or custom files to each email
 
 •	Marks emails as ‘Sent’ in the same Excel sheet
+
+•	Updates email sent Timestamp in the same Excel sheet
 
 •	Skips emails already marked as sent
 
